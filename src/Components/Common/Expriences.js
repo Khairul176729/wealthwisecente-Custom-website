@@ -8,7 +8,7 @@ const Expriences = () => {
                 <img src="/Images/Home/expriences.png" alt="" />
             </div>
             <div>
-                <h2 className='lg:text-4xl text-2xl text-[#111111] font-semibold'>We're Here To Assist You With Exploring Protection</h2>
+                <h2 className='lg:text-4xl text-2xl text-[#111111] font-semibold'>We're Herenp To Assist You With Exploring Protection</h2>
                 <p className='text-gray-700 my-5'>we understand how important it is to feel secure. Our team is dedicated to helping you explore the best protection options tailored to your needs. Whether you're looking for personal, home, or business protection,</p>
                 <div className='flex items-center gap-5 flex-wrap'>
                     <div className='flex items-center gap-3 mb-5'>
